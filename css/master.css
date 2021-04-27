@@ -76,39 +76,29 @@
     text-align: center;
     position: relative; 
 }
-#conteiner4 div:nth-child(1){
+.logo~div{
     height: 14.28%;
     width: 100%;
-    background-color: rgb(87, 10, 87);
 }
 #conteiner4 div:nth-child(2){
-    height: 14.28%;
-    width: 100%;
-    background-color: blue;
+    background-color: rgb(87, 10, 87);
 }
 #conteiner4 div:nth-child(3){
-    height: 14.28%;
-    width: 100%;
-    background-color: #007fff
+    background-color: blue;
 }
 #conteiner4 div:nth-child(4){
-    height: 14.28%;
-    width: 100%;
-    background-color: green
+    background-color: #007fff
 }
 #conteiner4 div:nth-child(5){
-    height: 14.28%;
-    width: 100%;
-    background-color: yellow
+    background-color: green
 }
 #conteiner4 div:nth-child(6){
-    height: 14.28%;
-    width: 100%;
-    background-color: orange
+    background-color: yellow
 }
 #conteiner4 div:nth-child(7){
-    height: 14.28%;
-    width: 100%;
+    background-color: orange
+}
+#conteiner4 div:nth-child(8){
     background-color: red
 }
 /*  */
